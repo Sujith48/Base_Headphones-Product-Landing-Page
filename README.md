@@ -1,3 +1,3 @@
 # rocksaction.github.io
 A Headphone Landing Page
-https://HeadphoneLandingpage/landing-page/
+https://rocksaction.github.io/landing-page/
