@@ -1,3 +1,3 @@
-# rocksaction.github.io
-<p>A Headphone Landing Page using HTML and CSS</p>
-https://rocksaction.github.io/landing-page/
+# https://peaceful-elion-18896e.netlify.app/
+<p>A <b>Headphone product landing page</b> made using <b>HTML</b> and <b>CSS</b>.</p>
+
